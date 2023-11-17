@@ -9,6 +9,6 @@ Generate blended image from two or more images.
 3. 이미지로부터 얻은 문장을 조합, 합치기 등의 방법으로 AI 이미지 생성
 
 필요한 오픈소스
-openai : 텍스트를 이미지로 만들어주는 DALL-E 라이브러리
-pytorch : 오픈 소스 머신 러닝 라이브러리
-Pillow : 이미지 처리 라이브러리
+- openai : 텍스트를 이미지로 만들어주는 DALL-E 라이브러리
+- pytorch : 오픈 소스 머신 러닝 라이브러리
+- Pillow : 이미지 처리 라이브러리
